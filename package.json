@@ -1,0 +1,23 @@
+{
+  "name": "module-5-scheduler",
+  "version": "1.0.0",
+  "description": "## Your Task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Robbinpass/module-5-scheduler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Robbinpass/module-5-scheduler/issues"
+  },
+  "homepage": "https://github.com/Robbinpass/module-5-scheduler#readme",
+  "dependencies": {
+    "dayjs": "^1.11.7"
+  }
+}
