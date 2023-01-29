@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Robbinpass/module-5-scheduler#readme",
   "dependencies": {
-    "dayjs": "^1.11.7"
+    "dayjs": "^1.11.7",
+    "moment": "^2.29.4"
   }
 }
